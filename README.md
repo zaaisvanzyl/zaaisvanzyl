@@ -15,9 +15,4 @@ I'm currently working on:
 - Personal health dashboard: connects to HealthKit API and EHR to generate insights from health data
 - An engine that converts NL to generative AI commands
 
-I'm interested in:
-- AI in healthcare
-- Generative AI
-- Travel
-
 Follow me on Twitter @zaaisvanzyl
