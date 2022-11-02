@@ -3,9 +3,7 @@ Hi, I'm Zaais.
 
 I live in Canada 🇨🇦  but have South African 🇿🇦 heritage.
 
-My background is in Commerce and Computer Science.
-
-I studied at Queen's University in Kingston.
+I studied Commerce & Computer Science at Queen's University in Kingston.
 
 
 Things I've built:
