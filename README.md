@@ -7,7 +7,7 @@ I studied Commerce & Computer Science at Queen's University in Kingston.
 Things I've built:
 - BountyBoard
 - Curiosity
-- Aspen AI
+- Aspen AI (https://app.getaspenai.com)
 
 I'm currently working on:
 - Personal health dashboard: connects to HealthKit API and EHR to generate insights from health data
