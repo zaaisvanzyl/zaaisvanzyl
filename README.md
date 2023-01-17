@@ -1,8 +1,4 @@
 
-Hi, I'm Zaais. I live in Canada and studied Commerce & Computer Science at Queen's University.
+Hi, I'm Zaais. I'm a Canadian software engineer interested in machine learning and startups.
 
-
-Things I've built:
-- BountyBoard
-- Curiosity
-- Aspen AI (https://www.getaspenai.com)
+Currently building: https://www.getaspenai.com/
