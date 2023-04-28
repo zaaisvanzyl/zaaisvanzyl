@@ -1,4 +1,6 @@
 
-Hi, I'm Zaais. I'm a software engineer interested in machine learning, healthcare, and startups.
+Hi, I'm Zaais. I'm the co-founder of Mosaic Studios and a software engineer at Hilo Labs.
+
+My interests span machine learning, startups, and healthcare.
 
 I studied Commerce & Computer Science @ Queen's University and have worked on several startups.
