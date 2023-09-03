@@ -1,5 +1,5 @@
 
-Hi, I'm Zaais. I'm the co-founder of [Mosaic Studios](https://builtbymosaic.com/) and a software engineer at [Hilo Labs](https://hilolabs.com/).
+Hi, I'm Zaais. I possess dual skillsets in both software engineering and business strategy.
 
 My interests span machine learning, startups, and healthcare.
 
