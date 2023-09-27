@@ -4,3 +4,5 @@ Hi, I'm Zaais. I possess dual skillsets in both software engineering and busines
 My interests span machine learning, startups, and healthcare.
 
 I studied Commerce & Computer Science @ Queen's University and have worked on several startups.
+
+Personal website: zaais.com
