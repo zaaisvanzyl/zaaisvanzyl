@@ -1,5 +1,5 @@
 
-Hi, I'm Zaais. I possess dual skillsets in both software engineering and business strategy.
+Hi, I'm Zaais. I'm a software engineer and founder.
 
 My interests span machine learning, startups, and healthcare.
 
