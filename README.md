@@ -1,7 +1,5 @@
 
-Hi, I'm Zaais. I'm a software engineer and founder.
-
-Currently, I'm part of the engineering team @ Orchid.
+Hi, I'm Zaais. I'm a software engineer @ Orchid.
 
 My interests span machine learning, startups, and healthcare.
 
