@@ -1,5 +1,5 @@
 
-Hi, I'm Zaais. I'm a software engineer at [Orchid](https://www.orchidhealth.com/)
+Hi, I'm Zaais. I'm a software engineer at [Orchid](https://www.orchidhealth.com/) working on whole-genome embryo screening.
 
 My interests span machine learning, startups, and healthcare.
 
